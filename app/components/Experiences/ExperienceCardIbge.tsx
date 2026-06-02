@@ -21,7 +21,7 @@ function ExperienceIbge() {
         viewport={{
             once: true,
         }}
-        src={`ttps://cdn.sanity.io/images/jj3dt7aq/production/bb9f05a14b19476c6bdb4903f8152d6335e628fc-382x397.jpg`} 
+        src={`/logos/ibge.jpeg`} 
         alt={`Company that I have worked: Wooza Ventures`} 
         className="w-24 h-24 rounded-full md:w-20 md:h-20 xl:w-[160px] xl:h-[160px] object-cover object-center"
         />

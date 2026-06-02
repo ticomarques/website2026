@@ -21,8 +21,8 @@ function ExperienceCardCasnav() {
         viewport={{
             once: true,
         }}
-        src={`https://cdn.sanity.io/images/jj3dt7aq/production/9f36d861760c83d64c7fa9f5f4580b2a2fef53d4-180x180.png`} 
-        alt={`Company that I have worked: Wooza Ventures`} 
+        src={`/logos/marinha.jpeg`} 
+        alt={`CASNAV - Centro de Análise de sistemas navais.`} 
         className="w-24 h-24 rounded-full md:w-20 md:h-20 xl:w-[160px] xl:h-[160px] object-cover object-center"
         />
         <div className="md:px-10">
