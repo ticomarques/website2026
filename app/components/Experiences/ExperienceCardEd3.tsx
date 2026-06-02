@@ -22,8 +22,9 @@ function ExperienceCardEd3() {
             once: true,
         }}
         src={`/logos/ed3-logo.svg`} 
-        alt={`Company that I have worked: Wooza Ventures`} 
-        className="w-24 h-24 rounded-full md:w-20 md:h-20 xl:w-[160px] xl:h-[160px] object-cover object-center"
+        alt={`Company that I have worked: ED3 Digital / Mycodewave`} 
+        className="w-24 h-24 rounded-full md:w-20 md:h-20 xl:w-[160px] xl:h-[160px] object-center"
+        style={{ backgroundColor: '#fff', padding: '5px' }}
         />
         <div className="md:px-10">
             <h4 className="text-3xl md:text-3xl font-light text-center">ED3 Digital / Mycodewave</h4>
